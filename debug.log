@@ -1,0 +1,3 @@
+Query: SELECT * FROM graves_locator WHERE first_name = 'John' AND last_name = 'Doe'
+Query: SELECT * FROM graves_locator WHERE first_name = 'John' AND last_name = 'Doe'
+Query: SELECT * FROM graves_locator WHERE first_name = 'Maria' AND last_name = 'Serrano'
