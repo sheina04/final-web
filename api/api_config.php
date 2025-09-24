@@ -15,7 +15,7 @@ header('Pragma: no-cache');
 $DB_HOST = '127.0.0.1';
 $DB_NAME = 'rest_assured';
 $DB_USER = 'root';
-$DB_PASS = 'Janelle12345';
+$DB_PASS = 'Bag-ongStrongPass!123';
 
 try {
   $pdo = new PDO(

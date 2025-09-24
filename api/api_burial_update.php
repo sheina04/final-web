@@ -11,7 +11,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') { http_response_code(204); exit; }
 $DB_HOST='127.0.0.1';
 $DB_NAME='rest_assured';
 $DB_USER='root';
-$DB_PASS='Janelle12345';
+$DB_PASS='Bag-ongStrongPass!123';
 
 try {
   $pdo = new PDO("mysql:host=$DB_HOST;dbname=$DB_NAME;charset=utf8mb4",$DB_USER,$DB_PASS,[

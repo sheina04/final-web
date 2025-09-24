@@ -3,7 +3,7 @@ if (!defined('DB_HOST'))    define('DB_HOST','127.0.0.1');
 if (!defined('DB_PORT'))    define('DB_PORT','3306');
 if (!defined('DB_NAME'))    define('DB_NAME','rest_assured');
 if (!defined('DB_USER'))    define('DB_USER','root');
-if (!defined('DB_PASS'))    define('DB_PASS','Janelle12345'); // adjust if needed
+if (!defined('DB_PASS'))    define('DB_PASS','Bag-ongStrongPass!123'); // adjust if needed
 if (!defined('DB_CHARSET')) define('DB_CHARSET','utf8mb4');
 
 require_once __DIR__.'/_bootstrap.php';
